@@ -1,0 +1,31 @@
+body{
+    width: 95%;
+    margin: auto;
+    background-color:rgb(226, 172, 90)
+    }
+   
+article {
+    background: #8e995ced;
+    border-radius: 20px;
+    padding: 5px 40px;
+    margin-top: 20px
+    }
+    .browser {
+        background: #2b24247a;
+        border-radius: 20px;
+        color: rgb(5, 5, 5);
+    }
+    
+ footer{
+        text-align: center;
+        padding: 3px;
+        margin-top: 20px;
+        background-color: rgb(14, 13, 13);
+        border-radius: 20px;
+        color: white;
+     }
+
+     img{
+border-image: auto;
+     }
+

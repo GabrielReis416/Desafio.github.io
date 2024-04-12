@@ -24,5 +24,9 @@ article {
         border-radius: 20px;
         color: white;
      }
- 
+
+ img {
+        width: auto;
+        height: auto;
+     }
 
